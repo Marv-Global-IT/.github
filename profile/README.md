@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/marv-global-it-logo.png" alt="Marv Global IT" width="520">
+<img src="./assets/marv-global-it-mark.png" alt="Marv Global IT" width="520">
 
 <br/><br/>
 
