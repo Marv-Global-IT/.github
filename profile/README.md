@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/marv-global-it-mark.png" alt="Marv Global IT" width="520">
-
-<br/><br/>
+<img src="./assets/marv-global-it-mark.png" alt="Marv Global IT" width="250">
 
 ### Building practical digital systems for modern businesses
 
